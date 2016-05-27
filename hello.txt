@@ -1,3 +1,4 @@
 hello
 world
 wonderful
+I'm a new girl.
