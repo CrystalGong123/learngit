@@ -2,3 +2,4 @@ hello
 world
 wonderful
 I'm a new girl.
+Git tracks changes of files.
